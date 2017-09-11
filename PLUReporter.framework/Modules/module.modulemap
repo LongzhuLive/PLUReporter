@@ -1,0 +1,6 @@
+framework module PLUReporter {
+  umbrella header "PLUReporter.h"
+
+  export *
+  module * { export * }
+}
